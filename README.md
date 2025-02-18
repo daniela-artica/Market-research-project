@@ -7,3 +7,8 @@ The goal of this project is to analyze the restaurant market in Los Angeles to a
 
 
 You can access the market research presentation by clicking **[here](https://github.com/daniela-artica/Market-research-project/blob/main/market%20research%20robot%20cafe%20.pdf)**.  
+
+## Used tools
+- **Programming language:**: Python
+- **Development environment:** Jupyter Notebook
+- **Libraries:** Pandas, Seaborn, Matplotlib, Plotly
